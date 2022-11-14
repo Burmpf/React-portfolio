@@ -1,4 +1,4 @@
-# Modify this portfolio
+# This is my makeshift portfolio project
 
-Make it your own! 
-# react-portfolio
+## Here is the link to the deployed site: https://ktport.netlify.app/ 
+Enjoy it
