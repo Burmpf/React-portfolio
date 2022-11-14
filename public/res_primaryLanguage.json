@@ -15,7 +15,7 @@
         "startDate": "2022",
         "description": "A pure vanilla HTML/CSS/JavaScript project inspired by the original Nintendo game 'Duck Hunt'.",
         "images": [
-          "images/target-practice.png "
+          "images/target-practice.png"
         ],
         "url": "",
         "technologies": [
@@ -80,37 +80,32 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "USMC",
+        "title": "0311 Rifleman",
+        "years": "6.2017 - 06.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Leadership",
+          "Teamwork",
+          "Mission Focus"
+          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Code Fellows",
+        "title": "Software Developer (student)",
+        "years": "09.2022 - Present",
         "mainTech": [
-          "Angular 7/8"
+          
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "HTML",
+          "CSS",
           "JavaScript",
-          "DHTMLX Gantt"
+          "React"
+        
         ]
       }
     ]
